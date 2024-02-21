@@ -1,0 +1,4 @@
+openai==0.28.0
+llama_index
+langchain
+python-dotenv
