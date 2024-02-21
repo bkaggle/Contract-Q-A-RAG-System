@@ -12,3 +12,12 @@ Welcome to the LizzyAI Contract Q&A RAG System repository! This project is part 
 * Evaluate system performance using predefined metrics and benchmarks.
 * Implement enhancements to improve response accuracy, relevance, and fairness.
 
+
+## Getting Started
+1. Clone the repository to your local machine:
+```
+git clone https://github.com/bkaggle/Contract-Q-A-RAG-System.git
+```
+
+
+
