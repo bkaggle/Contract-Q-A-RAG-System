@@ -24,5 +24,10 @@ git clone https://github.com/bkaggle/Contract-Q-A-RAG-System.git
 cd Contract-Q-A-RAG-System
 ```
 
+3. Install dependencies using pip:
+```
+pip install -r requirements.txt
+```
+
 
 
