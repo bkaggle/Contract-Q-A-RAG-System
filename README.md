@@ -19,5 +19,10 @@ Welcome to the LizzyAI Contract Q&A RAG System repository! This project is part 
 git clone https://github.com/bkaggle/Contract-Q-A-RAG-System.git
 ```
 
+2. Navigate to the project directory:
+```
+cd Contract-Q-A-RAG-System
+```
+
 
 
