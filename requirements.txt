@@ -3,3 +3,5 @@ llama_index
 langchain
 python-dotenv
 chromadb
+datasets
+ragas
