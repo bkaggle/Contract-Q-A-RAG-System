@@ -2,6 +2,6 @@ openai==0.28.0
 llama_index
 langchain
 python-dotenv
-chromadb
-datasets
-ragas
+#chromadb
+#datasets
+#ragas
